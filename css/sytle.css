@@ -1,0 +1,25 @@
+/* more css to add  */
+
+
+.slide-background {
+    background-color: #fceae8;
+    }
+
+.slide-price-text {
+    color: #FF136F;
+    }
+
+.padding-margin-header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 100px;
+}
+
+.btn-pink {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    padding: 25px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-radius: 8px;
+}
